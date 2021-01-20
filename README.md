@@ -1,5 +1,5 @@
 # choose-your-adventure
-My first Choose Your Own Adventure Project!
+Welcome to my Choose Your Own Adventure side-project!
 
 As a newbie to the software development world, I've been trying my hand at some basic Java-based projects. 
 My first-ever side project is a Choose Your Own Adventure game, which utilizes scanners to capture your inputs. 
